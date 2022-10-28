@@ -1,4 +1,4 @@
-# All eligible flights, respective departure, arrival cities and respective dates are accessible on flights page. This panel has only desktop version.
+# All eligible flights, respective departure, arrival cities and respective dates are accessible on flights page.
 
 # FlightBooking
 
